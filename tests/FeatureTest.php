@@ -4,7 +4,7 @@ namespace App\Tests;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
-class SimpleTest extends WebTestCase
+class FeatureTest extends WebTestCase
 {
     public function testFeature()
     {
